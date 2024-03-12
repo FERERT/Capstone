@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">TranslateApp</string>
+    <string name="title">Tests</string>
+    <string name="subtitle">Trying</string>
+</resources>
